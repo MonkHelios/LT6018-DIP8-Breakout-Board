@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LT6018_breakout.PrjPCB]
+   Generated File[LT6018_breakout-Plated.TXT]
+   Generated File[LT6018_breakout.LDP]
+   Generated File[LT6018_breakout.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 23:50:51 On 13-04-2019
